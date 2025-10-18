@@ -1,6 +1,21 @@
 # 💫 About Me:
-🏗️ I'm currently working on<br>Building full-stack applications with the MERN stack and focusing on backend API development with Node.js and Express.js<br><br>👥 I'm looking to collaborate on<br>Open-source projects involving React, Node.js, or backend systems that solve real-world problems<br><br>🤝 I'm looking for help with<br>System design patterns, database optimization techniques, and best practices for scalable backend architecture<br><br>🎓 I'm currently learning<br>Advanced Data Structures and Algorithms in C++, Redux for state management, and PostgreSQL optimization<br><br>💬 Ask me about<br>Backend development, REST APIs, Node.js, Express.js, React.js, or my journey from BCA to software development<br><br>⚡ Fun fact<br>I document my entire coding journey on LinkedIn and love turning setbacks into progress!<br><br>
+🏗️ **Currently working on**<br>
+Building full-stack applications with the **MERN stack**, with a strong focus on **backend API development** using **Node.js** and **Express.js**.<br><br>
 
+👥 **Looking to collaborate on**<br>
+Open-source projects involving **React**, **Node.js**, or **backend systems** that solve real-world problems.<br><br>
+
+🤝 **Looking for help with**<br>
+**System design patterns**, **database optimization techniques**, and **best practices** for building scalable backend architectures.<br><br>
+
+🎓 **Currently learning**<br>
+**Advanced Data Structures and Algorithms (C++)**, **Redux** for state management, and **PostgreSQL optimization**.<br><br>
+
+💬 **Ask me about**<br>
+**Backend development**, **REST APIs**, **Node.js**, **Express.js**, **React.js**, or my journey from **BCA** to becoming a software developer.<br><br>
+
+⚡ **Fun fact**<br>
+I document my entire coding journey on **LinkedIn** and love turning setbacks into progress!<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/durgeshshekhawat1511) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@durgeshshekhawat123456) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Durgesh___1511) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgeshshekhawat123456@gmail.com) 
