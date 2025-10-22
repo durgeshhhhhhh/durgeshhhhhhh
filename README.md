@@ -1,19 +1,14 @@
 # 💫 About Me:
 🏗️ **Currently working on**<br>
 Building full-stack applications with the **MERN stack**, with a strong focus on **backend API development** using **Node.js** and **Express.js**.<br><br>
-
 👥 **Looking to collaborate on**<br>
 Open-source projects involving **React**, **Node.js**, or **backend systems** that solve real-world problems.<br><br>
-
 🤝 **Looking for help with**<br>
 **System design patterns**, **database optimization techniques**, and **best practices** for building scalable backend architectures.<br><br>
-
 🎓 **Currently learning**<br>
 **Advanced Data Structures and Algorithms (C++)**, **Redux** for state management, and **PostgreSQL optimization**.<br><br>
-
 💬 **Ask me about**<br>
 **Backend development**, **REST APIs**, **Node.js**, **Express.js**, **React.js**, or my journey from **BCA** to becoming a software developer.<br><br>
-
 ⚡ **Fun fact**<br>
 I document my entire coding journey on **LinkedIn** and love turning setbacks into progress!<br><br>
 
